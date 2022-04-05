@@ -25,7 +25,7 @@ body{
 .content-image{
     height: 32%;
     width: 100%;
-    background-image: url(/imagens/image-header-mobile-violet.jpeg);
+    background-image: url(imagens/image-header-mobile-violet.jpeg);
     background-size: cover;
     border-radius: 10px 10px 0 0;
     
@@ -92,7 +92,7 @@ body{
     }
 
     .content-image{
-       background-image: url(/imagens/image-header-desktop-violet.jpeg);
+       background-image: url(imagens/image-header-desktop-violet.jpeg);
         height: 100%;
         width: 100%;
         border-radius: 0 10px 10px 0;
